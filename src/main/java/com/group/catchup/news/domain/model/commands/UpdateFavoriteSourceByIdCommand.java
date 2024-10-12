@@ -1,3 +1,10 @@
+/**
+ * UpdateFavoriteSourceByIdCommand.java command
+ *
+ * @Summary
+ * UpdateFavoriteSourceByIdCommand is a record class that represents a command to update a favorite source of news by id.
+ */
+
 package com.group.catchup.news.domain.model.commands;
 
 public record UpdateFavoriteSourceByIdCommand(Long id) {

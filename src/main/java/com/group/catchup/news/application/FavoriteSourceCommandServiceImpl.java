@@ -1,3 +1,10 @@
+/**
+ * FavoriteSourceCommandServiceImpl.java
+ *
+ * @Summary
+ * FavoriteSourceCommandServiceImpl is a class that implements the FavoriteSourceCommandService interface.
+ */
+
 package com.group.catchup.news.application;
 
 import com.group.catchup.news.domain.model.aggregates.FavoriteSource;

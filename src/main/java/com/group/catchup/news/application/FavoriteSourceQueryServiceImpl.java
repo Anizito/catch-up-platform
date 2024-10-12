@@ -1,3 +1,9 @@
+/**
+ * FavoriteSourceQueryServiceImpl.java
+ *
+ * @Summary
+ * FavoriteSourceQueryServiceImpl is a class that implements the FavoriteSourceQueryService interface.
+ */
 package com.group.catchup.news.application;
 
 import com.group.catchup.news.domain.model.aggregates.FavoriteSource;

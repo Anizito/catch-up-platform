@@ -1,3 +1,10 @@
+/**
+ * FavoriteSourceQueryService.java service
+ *
+ * @Summary
+ * FavoriteSourceQueryService is an interface that represents a service for favorite source queries.
+ */
+
 package com.group.catchup.news.domain.services;
 
 import com.group.catchup.news.domain.model.aggregates.FavoriteSource;

@@ -1,3 +1,10 @@
+/**
+ * FavoriteSourceCommandService.java service
+ *
+ * @Summary
+ * FavoriteSourceCommandService is an interface that represents a service for favorite source commands.
+ */
+
 package com.group.catchup.news.domain.services;
 
 import com.group.catchup.news.domain.model.aggregates.FavoriteSource;

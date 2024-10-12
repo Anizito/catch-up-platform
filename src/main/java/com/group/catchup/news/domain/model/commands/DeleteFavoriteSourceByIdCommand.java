@@ -1,3 +1,9 @@
+/**
+ * DeleteFavoriteSourceByIdCommand.java command
+ *
+ * @Summary
+ * DeleteFavoriteSourceByIdCommand is a record class that represents a command to delete a favorite source of news by id.
+ */
 package com.group.catchup.news.domain.model.commands;
 
 public record DeleteFavoriteSourceByIdCommand(Long id) {

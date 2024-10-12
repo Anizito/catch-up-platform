@@ -1,3 +1,10 @@
+/**
+ * CreateFavoriteSourceCommand.java command
+ *
+ * @Summary
+ * CreateFavoriteSourceCommand is a record class that represents a command to create a favorite source of news.
+ */
+
 package com.group.catchup.news.domain.model.commands;
 
 public record CreateFavoriteSourceCommand(Long id) {
